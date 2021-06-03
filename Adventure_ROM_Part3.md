@@ -29,8 +29,8 @@ GB Studio是款圖型化2D RPG遊戲開發工具，
 ### 使用工具
 1. [Ghidra](https://ghidra-sre.org/) 
     -  [GhidraBoy plugin](https://github.com/Gekkio/GhidraBoy)
-    -  要安裝GhidraBoy extension才可以分析，安裝成功會發現指令即架構有GameBoy的選項
-     ![](https://i.imgur.com/kBrerPv.png)
+    -  要安裝GhidraBoy extension才可以分析，安裝成功會發現指令即架構有GameBoy的選項  
+    ![](https://i.imgur.com/kBrerPv.png)
      
 2. [bgb debugger](https://bgb.bircd.org/)
 
