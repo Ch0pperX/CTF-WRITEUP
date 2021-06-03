@@ -13,7 +13,7 @@ You do not need to modify the game to win and make it print the flag -- you just
 - 靜態分析(x16)
 - 動態分析
 
-** 難易度**
+**難易度**
 ★★★☆☆
 
 ###### tags: `CTF-WRITEUP`
