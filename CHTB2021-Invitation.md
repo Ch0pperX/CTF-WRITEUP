@@ -1,6 +1,20 @@
 CHTB2021-Invitation
 ===
 ## Info
+**題目敘述**
+
+Last night I recieved an invitation, but after I accepted, some wierd things happened in my computer.
+
+**能力**
+- Office巨集
+- Powershell判讀
+- VBA基本宣告
+
+
+**難易度**
+★★★☆☆
+
+###### tags: `CTF-WRITEUP`
 
 ## Write Up
 題目是一個`.docm`檔案，這類檔案通常都包含可執行的巨集程式
