@@ -10,8 +10,8 @@ We discovered this tool in the E.T. toolkit which they used to encrypt and exfil
 - 動態分析提取dll檔
 - 靜態分析dll檔
 - 動態分析
-- 可獨立查詢windows API的使用手冊
-- 可動態修改calling table和參數
+- 查詢windows API的使用手冊
+- 動態修改calling table和參數
 
 **難易度**
 難易度：★★★☆☆
