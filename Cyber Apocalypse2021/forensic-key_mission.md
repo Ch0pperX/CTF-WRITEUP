@@ -26,8 +26,7 @@ The secretary of earth defense has been kidnapped. We have sent out elite team o
 最後8 Bytes記錄資料是有表依據，可以查詢的[USB scancode](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2)
 - $1^{st}$ byte
     `02`開頭的代表有按`SHIFT`，小寫`a`+`SHIFT`->`A`
-- $3{rd}$ byte  
-
+- $3{rd}$ byte
     ![](https://i.imgur.com/4EVzy9P.png)
 
 
@@ -50,7 +49,7 @@ The secretary of earth defense has been kidnapped. We have sent out elite team o
     - `tshark -r usb1.pcapng -T fields -e usb.capdata > usbdata.txt`
     - `tshark -r key_mission.pcap -T fields -e usb.capdata | grep -E "^.{23}$" | grep -v 00:00:00:00:00:00:00:00 > data0.txt` (筆者用這個)
     
-![Uploading file..._boj2rybq3]()
+![](https://i.imgur.com/nGCm54c.png)
 
 
 ### sol.py
@@ -130,7 +129,10 @@ print (flag)
         #flag=flag+KEY_CODES[int(data[2],16)][1] 
 
 ```
-![Uploading file..._fihdkl4h2]()
+
+![](https://i.imgur.com/Noel6Pn.png)
+
+
 
 
 
