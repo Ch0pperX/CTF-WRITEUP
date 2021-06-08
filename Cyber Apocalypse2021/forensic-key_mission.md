@@ -24,10 +24,9 @@ The secretary of earth defense has been kidnapped. We have sent out elite team o
 
 根據文章說明，USB封包大小是 40 Bytes，且最後 8 Bytes會記錄資料
 最後8 Bytes記錄資料是有表依據，可以查詢的[USB scancode](https://gist.github.com/MightyPork/6da26e382a7ad91b5496ee55fdc73db2)
-- $1^{st}$ byte
+- $1^{st}$ byte  
     `02`開頭的代表有按`SHIFT`，小寫`a`+`SHIFT`->`A`
 - $3{rd}$ byte  
-- 
     ![](https://i.imgur.com/4EVzy9P.png)
 
 
