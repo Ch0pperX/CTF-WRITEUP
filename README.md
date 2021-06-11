@@ -1,5 +1,6 @@
 # CTF-WRITEUP
 
-It's a set  write up of CTF I joined.
+It's a set of write up about CTF games I participated. 
 
-[TOC]
+-2021
+  - 
